@@ -1,0 +1,16 @@
+.env
+.venv/
+.test-runtime/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+.idea/
+.vscode/
